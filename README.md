@@ -58,7 +58,8 @@ npm run dev
 
 ## 🌐 Ссылка на развернутое приложение
 
-> 🔗 [https://gift-ai-demo.vercel.app](https://gift-ai-demo.vercel.app)
+> 🔗 [https://ai-gift-suggester.vercel.app](https://ai-gift-suggester.vercel.app/) <-- Frontend<br>
+> 🔗 [https://ai-gift-suggester.onrender.com](https://ai-gift-suggester.onrender.com) <-- Backend
 
 ---
 <br>
