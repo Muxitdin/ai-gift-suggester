@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Подбор подарка</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <div class="container">
+            <h2>Подбор подарка</h2>
+
+            <form id="gift-form">
+                <label>Выберите 1 или более интересы:</label>
+                <div class="checkbox-group">
+                    <label><input type="checkbox" name="interests" value="красота и уход" /> Красота и уход</label>
+                    <label><input type="checkbox" name="interests" value="электроника" /> Электроника</label>
+                    <label><input type="checkbox" name="interests" value="спорт" /> Спорт</label>
+                    <label><input type="checkbox" name="interests" value="дом и декор" /> Дом и декор</label>
+                </div>
+
+                <label>
+                    Возраст:
+                    <input type="number" name="age" min="0" required />
+                </label>
+
+                <label>
+                    Пол:
+                    <select name="gender" required>
+                        <option value="">Выберите</option>
+                        <option value="Male">Мужчина</option>
+                        <option value="Female">Женщина</option>
+                    </select>
+                </label>
+
+                <label>
+                    ИИ:
+                    <select name="ai" required>
+                        <option value="">Выберите</option>
+                        <option value="chatgpt">OpenAI (есть лимит)</option>
+                        <option value="gemini">Gemini (есть лимит)</option>
+                        <option value="openrouter">Gemini (через OpenRouter)</option>
+                    </select>
+                </label>
+
+                <button type="submit">Подобрать подарок</button>
+            </form>
+
+            <div id="loading" style="display: none">⏳ Загрузка...</div>
+            <div id="error" class="error"></div>
+
+            <div id="results">
+                <h2>Результаты:</h2>
+                <div id="gift-cards" class="card-container"></div>
+            </div>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>

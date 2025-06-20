@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "name": "Скакалка",
+        "interest_category": "спорт",
+        "target_gender": "Female",
+        "price": 21.52,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/d926cf/45423a"
+    },
+    {
+        "id": 2,
+        "name": "Набор кистей для макияжа",
+        "interest_category": "красота и уход",
+        "target_gender": "Female",
+        "price": 41.11,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/2422db/e5fbd6"
+    },
+    {
+        "id": 3,
+        "name": "Мужская спортивная майка",
+        "interest_category": "спорт",
+        "target_gender": "Male",
+        "price": 17.59,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/568e39/707896"
+    },
+    {
+        "id": 4,
+        "name": "Машинка для стрижки волос",
+        "interest_category": "красота и уход",
+        "target_gender": "Male",
+        "price": 13.13,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/493f83/acf472"
+    },
+    {
+        "id": 5,
+        "name": "Шуруповерт",
+        "interest_category": "дом и декор",
+        "target_gender": "Male",
+        "price": 37.79,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/9fb255/941f2c"
+    },
+    {
+        "id": 6,
+        "name": "Спортивная бутылка",
+        "interest_category": "спорт",
+        "target_gender": "Female",
+        "price": 31.57,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/c9a5bc/79a552"
+    },
+    {
+        "id": 7,
+        "name": "Женская bluetooth колонка",
+        "interest_category": "электроника",
+        "target_gender": "Female",
+        "price": 19.26,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/96b408/bf4874"
+    },
+    {
+        "id": 8,
+        "name": "Электрическая пилка для ног",
+        "interest_category": "электроника",
+        "target_gender": "Female",
+        "price": 6.17,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/a388d1/c7c46f"
+    },
+    {
+        "id": 9,
+        "name": "Портативный вентилятор",
+        "interest_category": "электроника",
+        "target_gender": "Female",
+        "price": 22.59,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/ad3a6e/9af014"
+    },
+    {
+        "id": 10,
+        "name": "Футбольные бутсы",
+        "interest_category": "спорт",
+        "target_gender": "Male",
+        "price": 36.52,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/895d80/c36267"
+    },
+    {
+        "id": 11,
+        "name": "Резинки для фитнеса",
+        "interest_category": "спорт",
+        "target_gender": "Female",
+        "price": 20.25,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/39ce09/294e23"
+    },
+    {
+        "id": 12,
+        "name": "Молоток с набором гвоздей",
+        "interest_category": "дом и декор",
+        "target_gender": "Male",
+        "price": 39.28,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/0334ae/4f59a3"
+    },
+    {
+        "id": 13,
+        "name": "Гантели",
+        "interest_category": "спорт",
+        "target_gender": "Male",
+        "price": 28.42,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/71620a/3d1fe2"
+    },
+    {
+        "id": 14,
+        "name": "Коврик для йоги",
+        "interest_category": "спорт",
+        "target_gender": "Female",
+        "price": 18.37,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/a904de/b65791"
+    },
+    {
+        "id": 15,
+        "name": "Светодиодное зеркало с подсветкой",
+        "interest_category": "электроника",
+        "target_gender": "Female",
+        "price": 18.62,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/f0b22c/c43ec9"
+    },
+    {
+        "id": 16,
+        "name": "Украшение на стену",
+        "interest_category": "дом и декор",
+        "target_gender": "Female",
+        "price": 20.75,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/c1665c/960c61"
+    },
+    {
+        "id": 17,
+        "name": "Электронный органайзер",
+        "interest_category": "электроника",
+        "target_gender": "Male",
+        "price": 15.94,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/2f8c9b/d285a0"
+    },
+    {
+        "id": 18,
+        "name": "Органайзер для инструментов",
+        "interest_category": "дом и декор",
+        "target_gender": "Male",
+        "price": 5.1,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/21457a/a45454"
+    },
+    {
+        "id": 19,
+        "name": "Щипцы для ресниц",
+        "interest_category": "красота и уход",
+        "target_gender": "Female",
+        "price": 19.57,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/987b36/204914"
+    },
+    {
+        "id": 20,
+        "name": "Женский набор для выпечки",
+        "interest_category": "дом и декор",
+        "target_gender": "Female",
+        "price": 37.09,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/5eb5a0/ff16d0"
+    },
+    {
+        "id": 21,
+        "name": "Мужской фитнес-трекер",
+        "interest_category": "электроника",
+        "target_gender": "Male",
+        "price": 28.49,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/f7b65f/4bf041"
+    },
+    {
+        "id": 22,
+        "name": "Женские леггинсы",
+        "interest_category": "спорт",
+        "target_gender": "Female",
+        "price": 47.33,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/9786de/6ae407"
+    },
+    {
+        "id": 23,
+        "name": "Стайлер для волос",
+        "interest_category": "электроника",
+        "target_gender": "Female",
+        "price": 47.46,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/429563/0290c5"
+    },
+    {
+        "id": 24,
+        "name": "Триммер для бороды",
+        "interest_category": "красота и уход",
+        "target_gender": "Male",
+        "price": 24.34,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/97d92e/f69c01"
+    },
+    {
+        "id": 25,
+        "name": "Набор кухонных полотенец",
+        "interest_category": "дом и декор",
+        "target_gender": "Female",
+        "price": 6.85,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/15d008/26c4f3"
+    },
+    {
+        "id": 26,
+        "name": "Маска для лица",
+        "interest_category": "красота и уход",
+        "target_gender": "Female",
+        "price": 19.6,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/fc8233/c3c281"
+    },
+    {
+        "id": 27,
+        "name": "Декоративные свечи",
+        "interest_category": "дом и декор",
+        "target_gender": "Female",
+        "price": 44.53,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/72f660/cfea5a"
+    },
+    {
+        "id": 28,
+        "name": "Мужские перчатки для фитнеса",
+        "interest_category": "спорт",
+        "target_gender": "Male",
+        "price": 23.56,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/189c58/797a6c"
+    },
+    {
+        "id": 29,
+        "name": "Тренировочные шорты",
+        "interest_category": "спорт",
+        "target_gender": "Male",
+        "price": 44.92,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/40d55a/324419"
+    },
+    {
+        "id": 30,
+        "name": "Плойка для завивки волос",
+        "interest_category": "красота и уход",
+        "target_gender": "Female",
+        "price": 30.54,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/3d7cd5/2446f0"
+    },
+    {
+        "id": 31,
+        "name": "Женский крем для лица",
+        "interest_category": "красота и уход",
+        "target_gender": "Female",
+        "price": 11.46,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/09aa78/669d8f"
+    },
+    {
+        "id": 32,
+        "name": "Инструмент для ремонта",
+        "interest_category": "дом и декор",
+        "target_gender": "Male",
+        "price": 36.26,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/b6c31f/c6b65b"
+    },
+    {
+        "id": 33,
+        "name": "Мужской набор для барбекю",
+        "interest_category": "дом и декор",
+        "target_gender": "Male",
+        "price": 7.55,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/74a740/87a556"
+    },
+    {
+        "id": 34,
+        "name": "Умные часы",
+        "interest_category": "электроника",
+        "target_gender": "Male",
+        "price": 30.4,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/d948a5/bda096"
+    },
+    {
+        "id": 35,
+        "name": "Бритвенный набор",
+        "interest_category": "красота и уход",
+        "target_gender": "Male",
+        "price": 21.02,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/07444f/61d75f"
+    },
+    {
+        "id": 36,
+        "name": "Мужской парфюм",
+        "interest_category": "красота и уход",
+        "target_gender": "Male",
+        "price": 36.29,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/8839ed/f23b31"
+    },
+    {
+        "id": 37,
+        "name": "Увлажняющий крем после бритья",
+        "interest_category": "красота и уход",
+        "target_gender": "Male",
+        "price": 34.02,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/fbb57b/37832f"
+    },
+    {
+        "id": 38,
+        "name": "Аромадиффузор",
+        "interest_category": "дом и декор",
+        "target_gender": "Female",
+        "price": 19.04,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/65952d/4170dd"
+    },
+    {
+        "id": 39,
+        "name": "Наушники-вкладыши",
+        "interest_category": "электроника",
+        "target_gender": "Male",
+        "price": 21.54,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/e799e5/026be4"
+    },
+    {
+        "id": 40,
+        "name": "Игровая гарнитура",
+        "interest_category": "электроника",
+        "target_gender": "Male",
+        "price": 20.88,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/f6de2b/fb5b91"
+    },
+    {
+        "id": 41,
+        "name": "Электронный органайзер",
+        "interest_category": "электроника",
+        "target_gender": "Male",
+        "price": 14.98,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/09de70/170c2e"
+    },
+    {
+        "id": 42,
+        "name": "Маска для лица",
+        "interest_category": "красота и уход",
+        "target_gender": "Female",
+        "price": 32.93,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/6ad89e/8af914"
+    },
+    {
+        "id": 43,
+        "name": "Игровая гарнитура",
+        "interest_category": "электроника",
+        "target_gender": "Male",
+        "price": 6.44,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/a1c565/f1b876"
+    },
+    {
+        "id": 44,
+        "name": "Инструмент для ремонта",
+        "interest_category": "дом и декор",
+        "target_gender": "Male",
+        "price": 48.38,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/33110b/7da822"
+    },
+    {
+        "id": 45,
+        "name": "Триммер для бороды",
+        "interest_category": "красота и уход",
+        "target_gender": "Male",
+        "price": 41.03,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/56f875/791781"
+    },
+    {
+        "id": 46,
+        "name": "Мужская спортивная майка",
+        "interest_category": "спорт",
+        "target_gender": "Male",
+        "price": 40.33,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/a05f57/7ef203"
+    },
+    {
+        "id": 47,
+        "name": "Тренировочные шорты",
+        "interest_category": "спорт",
+        "target_gender": "Male",
+        "price": 11.14,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/a26a21/65366d"
+    },
+    {
+        "id": 48,
+        "name": "Набор кухонных полотенец",
+        "interest_category": "дом и декор",
+        "target_gender": "Female",
+        "price": 5.15,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/5a4513/332eaf"
+    },
+    {
+        "id": 49,
+        "name": "Скакалка",
+        "interest_category": "спорт",
+        "target_gender": "Female",
+        "price": 10.03,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/61d433/a36005"
+    },
+    {
+        "id": 50,
+        "name": "Спортивная бутылка",
+        "interest_category": "спорт",
+        "target_gender": "Female",
+        "price": 23.09,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/1915cf/2ee79b"
+    },
+    {
+        "id": 51,
+        "name": "Женский набор для выпечки",
+        "interest_category": "дом и декор",
+        "target_gender": "Female",
+        "price": 11.75,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/0e92fc/70a3c1"
+    },
+    {
+        "id": 52,
+        "name": "Мужские перчатки для фитнеса",
+        "interest_category": "спорт",
+        "target_gender": "Male",
+        "price": 24.03,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/8129d8/92470b"
+    },
+    {
+        "id": 53,
+        "name": "Стайлер для волос",
+        "interest_category": "f",
+        "target_gender": "Female",
+        "price": 45.26,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/561134/3e7ed9"
+    },
+    {
+        "id": 54,
+        "name": "Украшение на стену",
+        "interest_category": "дом и декор",
+        "target_gender": "Female",
+        "price": 23.47,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/afb820/0c7688"
+    },
+    {
+        "id": 55,
+        "name": "Резинки для фитнеса",
+        "interest_category": "спорт",
+        "target_gender": "Female",
+        "price": 41.35,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/8dd6a1/f64d5c"
+    },
+    {
+        "id": 56,
+        "name": "Мужской парфюм",
+        "interest_category": "красота и уход",
+        "target_gender": "Male",
+        "price": 30.01,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/7a10d5/09c58a"
+    },
+    {
+        "id": 57,
+        "name": "Увлажняющий крем после бритья",
+        "interest_category": "красота и уход",
+        "target_gender": "Male",
+        "price": 47.41,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/5f77b0/de4333"
+    },
+    {
+        "id": 58,
+        "name": "Аромадиффузор",
+        "interest_category": "дом и декор",
+        "target_gender": "Female",
+        "price": 49.83,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/4dc61c/7bc224"
+    },
+    {
+        "id": 59,
+        "name": "Портативный вентилятор",
+        "interest_category": "электроника",
+        "target_gender": "Female",
+        "price": 48.03,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/4a28ae/87af39"
+    },
+    {
+        "id": 60,
+        "name": "Машинка для стрижки волос",
+        "interest_category": "красота и уход",
+        "target_gender": "Male",
+        "price": 26.6,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/132905/22e3a8"
+    },
+    {
+        "id": 61,
+        "name": "Плойка для завивки волос",
+        "interest_category": "красота и уход",
+        "target_gender": "Female",
+        "price": 8.92,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/535dc0/ed59c1"
+    },
+    {
+        "id": 62,
+        "name": "Светодиодное зеркало с подсветкой",
+        "interest_category": "электроника",
+        "target_gender": "Female",
+        "price": 8.48,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/733e5d/2f62fe"
+    },
+    {
+        "id": 63,
+        "name": "Умные часы",
+        "interest_category": "электроника",
+        "target_gender": "Male",
+        "price": 12.39,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/e9bf21/0811be"
+    },
+    {
+        "id": 64,
+        "name": "Электрическая пилка для ног",
+        "interest_category": "электроника",
+        "target_gender": "Female",
+        "price": 24.05,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/04ef93/75cd09"
+    },
+    {
+        "id": 65,
+        "name": "Декоративные свечи",
+        "interest_category": "дом и декор",
+        "target_gender": "Female",
+        "price": 8.79,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/19ac31/aaa6ae"
+    },
+    {
+        "id": 66,
+        "name": "Женский крем для лица",
+        "interest_category": "красота и уход",
+        "target_gender": "Female",
+        "price": 41.51,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/b6a170/a218f3"
+    },
+    {
+        "id": 67,
+        "name": "Молоток с набором гвоздей",
+        "interest_category": "дом и декор",
+        "target_gender": "Male",
+        "price": 44.15,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/7bbb17/ee199f"
+    },
+    {
+        "id": 68,
+        "name": "Футбольные бутсы",
+        "interest_category": "спорт",
+        "target_gender": "Male",
+        "price": 27.69,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/3302a9/e3d148"
+    },
+    {
+        "id": 69,
+        "name": "Набор кистей для макияжа",
+        "interest_category": "красота и уход",
+        "target_gender": "Female",
+        "price": 27.77,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/d8e6c9/83cff0"
+    },
+    {
+        "id": 70,
+        "name": "Коврик для йоги",
+        "interest_category": "спорт",
+        "target_gender": "Female",
+        "price": 32.83,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/e5c544/ad2a31"
+    },
+    {
+        "id": 71,
+        "name": "Мужской набор для барбекю",
+        "interest_category": "дом и декор",
+        "target_gender": "Male",
+        "price": 31.6,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/f78d76/6a09aa"
+    },
+    {
+        "id": 72,
+        "name": "Гантели",
+        "interest_category": "спорт",
+        "target_gender": "Male",
+        "price": 27.41,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/99d413/895947"
+    },
+    {
+        "id": 73,
+        "name": "Наушники-вкладыши",
+        "interest_category": "электроника",
+        "target_gender": "Male",
+        "price": 38.26,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/936cd9/d63c2f"
+    },
+    {
+        "id": 74,
+        "name": "Бритвенный набор",
+        "interest_category": "красота и уход",
+        "target_gender": "Male",
+        "price": 47.44,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/e112ab/c45b8e"
+    },
+    {
+        "id": 75,
+        "name": "Мужской фитнес-трекер",
+        "interest_category": "электроника",
+        "target_gender": "Male",
+        "price": 39.74,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/138e3c/d0dd25"
+    },
+    {
+        "id": 76,
+        "name": "Шуруповерт",
+        "interest_category": "дом и декор",
+        "target_gender": "Male",
+        "price": 14.39,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/a54b57/eec7ea"
+    },
+    {
+        "id": 77,
+        "name": "Органайзер для инструментов",
+        "interest_category": "дом и декор",
+        "target_gender": "Male",
+        "price": 48.71,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/6f6e0a/8f766b"
+    },
+    {
+        "id": 78,
+        "name": "Щипцы для ресниц",
+        "interest_category": "красота и уход",
+        "target_gender": "Female",
+        "price": 22.04,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/dbd9c4/77265b"
+    },
+    {
+        "id": 79,
+        "name": "Женские леггинсы",
+        "interest_category": "спорт",
+        "target_gender": "Female",
+        "price": 16.78,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/bc6485/4a7885"
+    },
+    {
+        "id": 80,
+        "name": "Женская bluetooth колонка",
+        "interest_category": "электроника",
+        "target_gender": "Female",
+        "price": 21.96,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/433b71/a9c275"
+    },
+    {
+        "id": 81,
+        "name": "Футбольные бутсы",
+        "interest_category": "спорт",
+        "target_gender": "Male",
+        "price": 31.51,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/bbb90d/bc349f"
+    },
+    {
+        "id": 82,
+        "name": "Увлажняющий крем после бритья",
+        "interest_category": "красота и уход",
+        "target_gender": "Male",
+        "price": 5.25,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/1a8b46/34b1fe"
+    },
+    {
+        "id": 83,
+        "name": "Женские леггинсы",
+        "interest_category": "спорт",
+        "target_gender": "Female",
+        "price": 10.98,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/26fe78/3ac84b"
+    },
+    {
+        "id": 84,
+        "name": "Резинки для фитнеса",
+        "interest_category": "спорт",
+        "target_gender": "Female",
+        "price": 24.6,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/072302/7973f7"
+    },
+    {
+        "id": 85,
+        "name": "Женская bluetooth колонка",
+        "interest_category": "электроника",
+        "target_gender": "Female",
+        "price": 7.98,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/01d413/717198"
+    },
+    {
+        "id": 86,
+        "name": "Набор кухонных полотенец",
+        "interest_category": "дом и декор",
+        "target_gender": "Female",
+        "price": 31.49,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/545603/8ca77f"
+    },
+    {
+        "id": 87,
+        "name": "Мужской фитнес-трекер",
+        "interest_category": "электроника",
+        "target_gender": "Male",
+        "price": 21.12,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/59b52b/ddee0f"
+    },
+    {
+        "id": 88,
+        "name": "Инструмент для ремонта",
+        "interest_category": "дом и декор",
+        "target_gender": "Male",
+        "price": 32.58,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/d7bd85/79aa9f"
+    },
+    {
+        "id": 89,
+        "name": "Маска для лица",
+        "interest_category": "красота и уход",
+        "target_gender": "Female",
+        "price": 8.59,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/ffbb9c/ec5119"
+    },
+    {
+        "id": 90,
+        "name": "Электрическая пилка для ног",
+        "interest_category": "электроника",
+        "target_gender": "Female",
+        "price": 11.77,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/709cae/a6bd58"
+    },
+    {
+        "id": 91,
+        "name": "Тренировочные шорты",
+        "interest_category": "спорт",
+        "target_gender": "Male",
+        "price": 39.71,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/02142e/2e741e"
+    },
+    {
+        "id": 92,
+        "name": "Портативный вентилятор",
+        "interest_category": "электроника",
+        "target_gender": "Female",
+        "price": 44.36,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/1ecae5/5078a9"
+    },
+    {
+        "id": 93,
+        "name": "Бритвенный набор",
+        "interest_category": "красота и уход",
+        "target_gender": "Male",
+        "price": 48.48,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/d9f74e/cc2fd2"
+    },
+    {
+        "id": 94,
+        "name": "Скакалка",
+        "interest_category": "спорт",
+        "target_gender": "Female",
+        "price": 17.39,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/1323f0/db5f97"
+    },
+    {
+        "id": 95,
+        "name": "Мужской парфюм",
+        "interest_category": "красота и уход",
+        "target_gender": "Male",
+        "price": 11.49,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/08a04d/fdf41b"
+    },
+    {
+        "id": 96,
+        "name": "Электронный органайзер",
+        "interest_category": "электроника",
+        "target_gender": "Male",
+        "price": 11.15,
+        "age_min": 18,
+        "age_max": 30,
+        "imageUrl": "http://dummyimage.com/100x100.png/640bdc/e81a28"
+    },
+    {
+        "id": 97,
+        "name": "Светодиодное зеркало с подсветкой",
+        "interest_category": "электроника",
+        "target_gender": "Female",
+        "price": 34.36,
+        "age_min": 30,
+        "age_max": 45,
+        "imageUrl": "http://dummyimage.com/100x100.png/b28ddd/e760d7"
+    },
+    {
+        "id": 98,
+        "name": "Украшение на стену",
+        "interest_category": "дом и декор",
+        "target_gender": "Female",
+        "price": 13.8,
+        "age_min": 45,
+        "age_max": 60,
+        "imageUrl": "http://dummyimage.com/100x100.png/1a617e/e21e4c"
+    },
+    {
+        "id": 99,
+        "name": "Женский крем для лица",
+        "interest_category": "красота и уход",
+        "target_gender": "Female",
+        "price": 5.6,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/68c76e/ea0185"
+    },
+    {
+        "id": 100,
+        "name": "Набор кистей для макияжа",
+        "interest_category": "красота и уход",
+        "target_gender": "Female",
+        "price": 7.16,
+        "age_min": 12,
+        "age_max": 18,
+        "imageUrl": "http://dummyimage.com/100x100.png/92964d/a5b23e"
+    }
+]
