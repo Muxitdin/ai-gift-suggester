@@ -39,7 +39,7 @@ document.getElementById("gift-form").addEventListener("submit", async function (
     loadingEl.style.display = "block";
 
     try {
-        const response = await fetch("http://localhost:3000/api/recommend-gift", {
+        const response = await fetch("https://ai-gift-suggester.onrender.com/api/recommend-gift", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
